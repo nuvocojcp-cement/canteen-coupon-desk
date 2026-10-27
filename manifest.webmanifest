@@ -1,0 +1,16 @@
+{
+  "name": "Canteen Coupon Desk - Jojobera Cement Plant",
+  "short_name": "Canteen Desk",
+  "description": "QR meal coupon counter, issue and reports for the plant canteen",
+  "start_url": "./",
+  "scope": "./",
+  "display": "standalone",
+  "orientation": "any",
+  "background_color": "#24313e",
+  "theme_color": "#24313e",
+  "icons": [
+    { "src": "icon-192.png", "sizes": "192x192", "type": "image/png" },
+    { "src": "icon-512.png", "sizes": "512x512", "type": "image/png", "purpose": "any maskable" },
+    { "src": "icon.svg", "sizes": "any", "type": "image/svg+xml" }
+  ]
+}
